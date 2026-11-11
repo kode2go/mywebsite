@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.tittle("Binjamin Website")
+st.title("Binjamin Website")
